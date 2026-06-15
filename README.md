@@ -83,6 +83,7 @@ If you find this useful, please give it a star - it helps others discover the li
 - [Medium Quick Setup](https://medium.com/ai-software-engineer/how-to-install-and-use-openai-codex-cli-in-2-minutes-29e9fdd0e8c5) - 2-minute install-to-first-prompt guide. No fluff.
 - [OpenReplay Integration Guide](https://blog.openreplay.com/integrate-openais-codex-cli-tool-development-workflow/) - How to weave Codex into an existing dev workflow.
 - [Machine Learning Mastery](https://machinelearningmastery.com/understanding-openai-codex-cli-commands/) - Command reference with examples for each mode.
+- [Codex First Task Prompt Generator](https://ronnie2025.github.io/ai-agent-workbench-starter-pack/codex-first-task-prompt-generator.html) - Free tool that turns a Codex CLI project goal into a scoped first-task prompt with constraints and acceptance checks.
 
 ## AGENTS.md Templates
 
