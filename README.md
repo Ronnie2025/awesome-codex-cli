@@ -90,6 +90,7 @@ If you find this useful, please give it a star - it helps others discover the li
 Project-level instruction files that tell Codex how to work with your codebase - the equivalent of Claude Code's `CLAUDE.md`.
 
 - [agents.md (Open Standard)](https://agents.md) - The cross-agent standard used by 20k+ projects. Works with Codex, Claude Code, Gemini CLI, and more.
+- [AGENTS.md Generator for Codex CLI](https://github.com/Ronnie2025/codex-agents-md-generator) - Free browser tool that generates project-level AGENTS.md files with commands, file boundaries, safety rules, and acceptance checks. ![GitHub stars](https://img.shields.io/github/stars/Ronnie2025/codex-agents-md-generator?style=flat-square)
 - [codex-cli-best-practice](https://github.com/shanraisshan/codex-cli-best-practice) - Battle-tested AGENTS.md patterns with sandbox mode recommendations and approval policies. ![GitHub stars](https://img.shields.io/github/stars/shanraisshan/codex-cli-best-practice?style=flat-square)
 - [claude-codex-settings](https://github.com/fcakyon/claude-codex-settings) - Dual AGENTS.md + CLAUDE.md setup for teams running both agents side-by-side. ![GitHub stars](https://img.shields.io/github/stars/fcakyon/claude-codex-settings?style=flat-square)
 - [caliber-ai-org/ai-setup](https://github.com/caliber-ai-org/ai-setup) - Cross-tool config generator - outputs AGENTS.md, CLAUDE.md, and .cursorrules from one source. ![GitHub stars](https://img.shields.io/github/stars/caliber-ai-org/ai-setup?style=flat-square)
